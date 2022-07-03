@@ -5,7 +5,7 @@
 
 |Day|What did you worked on?|Link|
 |-------|------|--------|
-|1|||
+|1|Frontend Day - 1|https://www.youtube.com/watch?v=KnZa_Ri_B18&list=PLqcJACtjWm_Xx_l75dfg4MGAhIrpCnxFV|
 |2|||
 |3|||
 |4|||
